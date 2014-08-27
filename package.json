@@ -1,0 +1,15 @@
+{
+  "name": "file-upload",
+  "version": "0.0.1",
+  "description": "Simple file upload example in Express 4.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.8.5",
+    "multer": "^0.1.4"
+  }
+}
